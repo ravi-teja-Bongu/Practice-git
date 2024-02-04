@@ -1,3 +1,3 @@
 object Main1 extends App{
-println("ravi")
+println("ravi123")
 }
